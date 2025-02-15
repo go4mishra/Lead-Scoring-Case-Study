@@ -51,13 +51,13 @@ Based on the analysis, the most critical factors influencing lead conversion inc
 
 **Files Provided**
 
-  File Name	                                           Description
-1. Lead Score Case Study.ipynb	                       Python notebook with code and data analysis
-2. Leads.csv	Dataset                                containing lead information
-3. Leads Data Dictionary.xlsx	                       Explanation of dataset columns and values
-4. Assignment Subjective Questions.pdf	               Subjective business questions and responses
-5. Lead Score Case Study.pdf	                       Final presentation with model insights and recommendations
-6. Summary.pdf	                                       Overview of the entire analysis and key findings
+  File Name	                                           (Description)
+1. Lead Score Case Study.ipynb	                       (Python notebook with code and data analysis)
+2. Leads.csv	Dataset                                (Containing lead information)
+3. Leads Data Dictionary.xlsx	                       (Explanation of dataset columns and values)
+4. Assignment Subjective Questions.pdf	               (Subjective business questions and responses)
+5. Lead Score Case Study.pdf	                       (Final presentation with model insights and recommendations)
+6. Summary.pdf	                                       (Overview of the entire analysis and key findings)
 
 **Next Steps & Recommendations**
 
