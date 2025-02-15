@@ -1,9 +1,11 @@
 # Lead Scoring Case Study
 **Problem Statement**
+
 X Education aims to optimize its lead conversion process by identifying the most promising leads—those most likely to convert into paying customers.
 To achieve this, we need to develop a lead scoring model that assigns a score to each lead, helping the company prioritize follow-ups.
 
 **Key requirements:**
+
 - Assign a lead score between 0 and 100 based on conversion probability.
 - Ensure that high-scoring leads have a higher likelihood of conversion, while low-scoring leads have a lower likelihood.
 - Target a lead conversion rate of approximately 80%, as specified by the CEO.
@@ -11,6 +13,7 @@ To achieve this, we need to develop a lead scoring model that assigns a score to
 **Goals and Objectives**
 
 The primary goal of this case study is to build a logistic regression model that helps X Education efficiently target potential leads.
+
 **Specific Objectives:**
 
 - Develop a predictive model using logistic regression to assign a lead score.
@@ -47,6 +50,7 @@ Based on the analysis, the most critical factors influencing lead conversion inc
 - By leveraging these insights, X Education can enhance its lead nurturing strategy and improve its overall conversion rates.
 
 **Files Provided**
+
   File Name	                                           Description
 1. Lead Score Case Study.ipynb	                       Python notebook with code and data analysis
 2. Leads.csv	Dataset                                containing lead information
@@ -56,6 +60,7 @@ Based on the analysis, the most critical factors influencing lead conversion inc
 6. Summary.pdf	                                       Overview of the entire analysis and key findings
 
 **Next Steps & Recommendations**
+
 To maximize lead conversion success, X Education should:
 
 ✅ Prioritize leads from the Welingkar website as they have the highest conversion rate.
