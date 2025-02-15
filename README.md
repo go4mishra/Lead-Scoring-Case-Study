@@ -9,8 +9,10 @@ To achieve this, we need to develop a lead scoring model that assigns a score to
 - Target a lead conversion rate of approximately 80%, as specified by the CEO.
 
 **Goals and Objectives**
+
 The primary goal of this case study is to build a logistic regression model that helps X Education efficiently target potential leads.
 **Specific Objectives:**
+
 - Develop a predictive model using logistic regression to assign a lead score.
 - Ensure that the model is adaptable to future changes in business requirements.
 - Identify key features influencing lead conversion and provide data-driven recommendations.
@@ -20,20 +22,20 @@ Additionally, a separate document outlines additional business challenges that t
 
 **Approach & Steps Followed**
 The analysis was carried out in a structured manner using the following steps:
-- Data Acquisition & Reading – Importing the dataset for analysis.
-- Data Cleaning – Handling missing values, duplicates, and inconsistencies.
-- Exploratory Data Analysis (EDA) – Understanding data distributions and relationships.
-- Feature Engineering & Dummy Variable Creation – Converting categorical variables into numerical form.
-- Train-Test Split – Splitting the dataset into training (70%) and testing (30%) subsets.
-- Model Building – Implementing logistic regression to predict lead conversion probability.
-- Making Predictions – Applying the trained model to test data.
-- Model Evaluation – Assessing model performance using:
+1. Data Acquisition & Reading – Importing the dataset for analysis.
+2. Data Cleaning – Handling missing values, duplicates, and inconsistencies.
+3. Exploratory Data Analysis (EDA) – Understanding data distributions and relationships.
+4. Feature Engineering & Dummy Variable Creation – Converting categorical variables into numerical form.
+5. Train-Test Split – Splitting the dataset into training (70%) and testing (30%) subsets.
+6. Model Building – Implementing logistic regression to predict lead conversion probability.
+7. Making Predictions – Applying the trained model to test data.
+8. Model Evaluation – Assessing model performance using:
     - Confusion Matrix
     - Accuracy, Sensitivity, Specificity
     - Precision-Recall Analysis
     - ROC-AUC Curve
-- Optimizing the Model – Selecting the optimal cutoff score for lead conversion predictions.
-- Final Predictions & Business Insights – Interpreting results and providing actionable recommendations.
+9. Optimizing the Model – Selecting the optimal cutoff score for lead conversion predictions.
+10. Final Predictions & Business Insights – Interpreting results and providing actionable recommendations.
 
 **Key Findings & Business Insights**
 Based on the analysis, the most critical factors influencing lead conversion include:
@@ -47,10 +49,10 @@ Based on the analysis, the most critical factors influencing lead conversion inc
 **Files Provided**
   File Name	                                           Description
 1. Lead Score Case Study.ipynb	                       Python notebook with code and data analysis
-2. Leads.csv	Dataset                                  containing lead information
-3. Leads Data Dictionary.xlsx	                         Explanation of dataset columns and values
+2. Leads.csv	Dataset                                containing lead information
+3. Leads Data Dictionary.xlsx	                       Explanation of dataset columns and values
 4. Assignment Subjective Questions.pdf	               Subjective business questions and responses
-5. Lead Score Case Study.pdf	                         Final presentation with model insights and recommendations
+5. Lead Score Case Study.pdf	                       Final presentation with model insights and recommendations
 6. Summary.pdf	                                       Overview of the entire analysis and key findings
 
 **Next Steps & Recommendations**
