@@ -57,10 +57,15 @@ Based on the analysis, the most critical factors influencing lead conversion inc
 To maximize lead conversion success, X Education should:
 
 ✅ Prioritize leads from the Welingkar website as they have the highest conversion rate.
+
 ✅ Actively engage referral-based leads, as they are strong potential customers.
+
 ✅ Follow up with customers whose last activity was a phone call or SMS to improve conversion rates.
+
 ✅ Focus on working professionals, as they form the largest customer segment seeking upskilling opportunities.
+
 ✅ Allocate more resources to Mumbai-based leads, as they show the highest conversion rates.
+
 🚫 Avoid contacting leads who opted for "Do Not Email," have an unspecified specialization, or listed their occupation as "Other", as they have the lowest conversion potential.
 
 By implementing these data-driven recommendations, X Education can improve its marketing efficiency, enhance customer engagement, and boost lead conversion rates.
